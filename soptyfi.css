@@ -111,7 +111,7 @@ p{
 
 .ft_containers{
 	width: 100%;
-	height: 100vh;
+	height: 115vh;
 	background-color: black;
 	margin-top: 60px;
 	padding: 0px 15px 0px 15px;
@@ -141,7 +141,6 @@ p{
 	position: relative;
 	text-transform: uppercase;
 	padding: 0px;
-	line-height: 1.4;
 }
 
 h3{
@@ -153,6 +152,7 @@ h3{
 	-webkit-margin-start:0em;
 	-webkit-margin-end:0em;
 	font-weight: bold;
+	
 
 }
 
@@ -169,6 +169,7 @@ ul{
 	display: block;
 	position: relative;
 	padding: 0px;
+
 }
 
 .foot_list1 a{
@@ -176,12 +177,15 @@ ul{
 	padding:.1875em 0;
 	margin-bottom: .75em;
 	display: inline-block;
+
+
 }
 
 .foot_icon{
 	width: 100%;
 	display: flex;
-	padding-top: 80px;
+	padding-top: 50px;
+
 }
 
 .fa{
@@ -230,15 +234,18 @@ ul{
 	align-items: center;
 }
 
-.last_nav{}
+.last_nav{
 
-.flag_div p{
+}
+
+.flg_div p{
 	font-size: 12px;
 	text-align: right;
 	color:white;
+
 }
 
-.flag_logo{
+.flg_logo{
 	height: 30px;
 	width: auto;
 	background-size: auto;
